@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj": {}
+  },
+  "projects": {
+    "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj",
+        "projectName": "Problem_3",
+        "projectPath": "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj",
+        "packagesPath": "C:\\Users\\iha\\.nuget\\packages\\",
+        "outputPath": "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

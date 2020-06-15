@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlXJ0oE9P9hL9QmRNc6XQcG5uMR++OWzZsAO+RWfA9Jp2i5Z62iUUbU2zfWGvsn//uDnZ9ZpiDSqqKYKuf1GbQ==",
+  "success": true,
+  "projectFilePath": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_4\\Problem_4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iha\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

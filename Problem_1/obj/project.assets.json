@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\iha\\forTesting\\Project_Euler\\Problem_1\\Problem_1.fsproj",
+      "projectUniqueName": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_1\\Problem_1.fsproj",
       "projectName": "Problem_1",
-      "projectPath": "Y:\\iha\\forTesting\\Project_Euler\\Problem_1\\Problem_1.fsproj",
+      "projectPath": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_1\\Problem_1.fsproj",
       "packagesPath": "C:\\Users\\iha\\.nuget\\packages\\",
-      "outputPath": "Y:\\iha\\forTesting\\Project_Euler\\Problem_1\\obj\\",
+      "outputPath": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iha\\AppData\\Roaming\\NuGet\\NuGet.Config"

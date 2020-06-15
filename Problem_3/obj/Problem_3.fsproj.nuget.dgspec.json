@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj": {}
+    "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_3\\Problem_3.fsproj": {}
   },
   "projects": {
-    "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj": {
+    "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_3\\Problem_3.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj",
+        "projectUniqueName": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_3\\Problem_3.fsproj",
         "projectName": "Problem_3",
-        "projectPath": "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\Problem_3.fsproj",
+        "projectPath": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_3\\Problem_3.fsproj",
         "packagesPath": "C:\\Users\\iha\\.nuget\\packages\\",
-        "outputPath": "Y:\\iha\\forTesting\\Project_Euler\\Problem_3\\obj\\",
+        "outputPath": "Y:\\iha\\forTesting\\Project_Euler_fs\\Problem_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iha\\AppData\\Roaming\\NuGet\\NuGet.Config"
